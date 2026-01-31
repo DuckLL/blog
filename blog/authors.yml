@@ -1,0 +1,9 @@
+duckll:
+  name: DuckLL
+  title: Security Researcher, Yoyo player
+  url: https://linkedin.com/in/duckll
+  image_url: https://github.com/duckll.png
+  page: true
+  socials:
+    linkedin: duckll
+    github: duckll
