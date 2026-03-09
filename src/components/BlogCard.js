@@ -15,7 +15,7 @@ export default function BlogCard({ name, url, logo, description }) {
     >
       <img
         src={`${logo}`}
-        style={{ borderRadius: "50%", width: "60px", marginRight: "15px" }}
+        style={{ borderRadius: "5%", width: "60px", marginRight: "15px" }}
       />
       <div>
         <a href={`${url}`} target="_blank" rel="noopener noreferrer">

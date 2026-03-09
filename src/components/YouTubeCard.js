@@ -15,7 +15,7 @@ export default function YouTubeCard({ name, id, description }) {
     >
       <img
         src={`https://unavatar.io/youtube/${id}`}
-        style={{ borderRadius: "50%", width: "60px", marginRight: "15px" }}
+        style={{ borderRadius: "5%", width: "60px", marginRight: "15px" }}
       />
       <div>
         <a
