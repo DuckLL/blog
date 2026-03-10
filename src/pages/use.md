@@ -21,7 +21,7 @@
 ### 瀏覽器
 
 - [Brave Browser](https://brave.com/) - 隱私優先、擋廣告很好用
-- [Firefox](https://www.mozilla.org/firefox/) - 支持非 Blink (Chromium) 體系，最近嘗試 [Zen](https://zen-browser.app/) 中
+- [Firefox](https://www.mozilla.org/firefox/) - 支持非 Chromium 體系，最近嘗試 [Zen](https://zen-browser.app/) 中
 - [Google Chrome](https://www.google.com/chrome/) - 遇到相容性問題時使用
 
 ---
@@ -99,7 +99,7 @@
 - [Line](https://www.line.me/tw/) - 拜託不要在用了
 - [Microsoft Teams](https://www.microsoft.com/microsoft-teams/) - 工作需求，難用到生氣
 - [Signal](https://signal.org/) - 研究員的通訊軟體
-- [Telegram](https://telegram.org/) - 最佛心的通訊軟體，串 Bot 無敵
+- [Telegram](https://telegram.org/) - 佛心通訊軟體，API 串 Bot 無敵
 
 ---
 
@@ -113,7 +113,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Android 螢幕鏡像與控制工具
 - [tmux](https://github.com/tmux/tmux) - terminal 視窗管理工具
 - [uv](https://github.com/astral-sh/uv) - Python 版本管理工具
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 下載各種影片
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 下載影片神器
 - [zsh](https://www.zsh.org/) - plugin 還是最齊全
 
 ---
@@ -121,11 +121,11 @@
 ## 手機 App
 
 - [andOTP](https://github.com/andOTP/andOTP) - 開源 2FA 工具，考慮轉換到 [Aegis](https://getaegis.app/)
-- [App Manager](https://play.google.com/store/apps/details?id=com.google.android.appmanager) - 應用程式管理工具
-- [Aurora Store](https://auroraoss.com/) - 免登入 Google Play Store
-- [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck) - 系統資訊檢視工具
-- [KeePassDX](https://keeppassdx.org/) - KeePass 系列 Android 密碼管理器
-- [Lux Light Meter](https://play.google.com/store/apps/details?id=de.waldau_webdesign.lightmeter) - 光度計量工具
+- [App Manager](https://muntashir.dev/AppManager/) - 應用程式管理工具
+- [Aurora Store](https://auroraoss.com/aurora-store) - 免登入 Google Play Store
+- [DevCheck](https://devcheck.app/) - 系統資訊檢視工具
+- [KeePassDX](https://www.keepassdx.com/) - KeePass 系列 Android 密碼管理器
+- [Lux Light Meter Pro](https://play.google.com/store/apps/details?id=com.doggoapps.luxlight) - 光度計量工具
 - [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) - 開源 PDF 閱讀器 
 - [Neo Store](https://neostore.app/) - 開源 App 集中地
 - [Obtainium](https://github.com/ImranR98/Obtainium) - 訂閱 App 更新
@@ -144,7 +144,7 @@
 ### 自架
 
 - [FreshRSS](https://freshrss.org/) - RSS 閱讀器
-- [Immich](https://immich.app/) - 開源 Google photo
+- [Immich](https://immich.app/) - 開源版 Google photo
 - [Nextcloud](https://nextcloud.com/) - 私人雲端硬碟
 - [Obsidian LiveSync](https://github.com/vrtmrz/obsidian-livesync) - 同步 Obsidian 筆記
 - [Plausible](https://plausible.io/) - 取代 Google Analytics
