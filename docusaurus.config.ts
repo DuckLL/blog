@@ -8,6 +8,14 @@ const config: Config = {
   title: "DuckLL's Blog",
   tagline: "Hack the planet!",
   favicon: "img/favicon.ico",
+  scripts: [
+    {
+      src: "https://health.duckll.tw/health",
+      async: true,
+      defer: true,
+      "data-website-id": "d1752f6d-86d6-4e5f-9788-010080e9d0a9",
+    },
+  ],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -66,10 +74,6 @@ const config: Config = {
         },
         theme: {
           customCss: "./src/css/custom.css",
-        },
-        gtag: {
-          trackingID: "G-840CD1KEZS",
-          anonymizeIP: true,
         },
       } satisfies Preset.Options,
     ],
