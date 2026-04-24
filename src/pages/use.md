@@ -28,12 +28,13 @@
 
 ### 開發工具
 
-- [Antigravity](https://antigravity.google/) - AI IDE，免費額度休閒夠用
 - [Ghostty](https://ghostty.org/) - 時下最火紅 Terminal
 - [Hex Fiend](https://hexfiend.com/) - 快速的 Hex 編輯器
 - [ImHex](https://imhex.werwolv.net/) - 進階的 Hex 分析工具
 - [Klogg](https://klogg.filimonov.dev/) - 看大檔案用這個
 - [Visual Studio Code](https://code.visualstudio.com/) - 強大的程式碼編輯器，正在搬家到 [VSCodium](https://vscodium.com/)
+- [Claude Code](https://claude.com/product/claude-code) - AI Coding
+- [Codex](https://openai.com/zh-Hant/codex/) - AI Coding
 
 ---
 
@@ -44,7 +45,7 @@
 - [DaisyDisk](https://daisydiskapp.com/) - 磁碟空間分析工具
 - [dupeGuru](https://dupeguru.voltaicideas.net/) - 重複檔案搜尋與清理
 - [eqMac](https://eqmac.app/) - 讓 soundbar 的人聲可以更凸顯
-- [Ice](https://icemenubar.app/) - 隱藏系統列
+- [Thaw](https://github.com/stonerl/Thaw) - 隱藏系統列
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 改鍵軟體，讓 CapsLock 再次偉大
 - [LinearMouse](https://linearmouse.app/) - 打遊戲必備
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) - 移除 App 的工具
@@ -147,7 +148,8 @@
 - [Immich](https://immich.app/) - 開源版 Google photo
 - [Nextcloud](https://nextcloud.com/) - 私人雲端硬碟
 - [Obsidian LiveSync](https://github.com/vrtmrz/obsidian-livesync) - 同步 Obsidian 筆記
-- [Plausible](https://plausible.io/) - 取代 Google Analytics
+- [Umami](https://umami.is/) - 取代 Google Analytics
+- [CodiMD](https://github.com/DuckLL/codimd) - 手工加入了全文檢索功能
 
 ---
 
@@ -155,6 +157,8 @@
 
 - [Adobe 攝影方案](https://www.adobe.com/creativecloud/photography.html) - 暫時離不開 Lightroom Classic
 - [Spotify](https://www.spotify.com/) - 音樂串流服務
+- [Claude Pro](https://claude.com/pricing) - Anthropic AI 服務
+- [ChatGPT Plus](https://chatgpt.com/pricing/) - OpenAI AI 服務
 
 ---
 
