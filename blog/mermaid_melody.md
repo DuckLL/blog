@@ -16,6 +16,8 @@ alt="hanon"
 style={{ maxHeight: '600px', width: 'auto' }}
 />
 
+<!-- truncate -->
+
 真珠美人魚全歌曲
 
 <iframe
@@ -25,8 +27,6 @@ style={{ maxHeight: '600px', width: 'auto' }}
     height: 'auto',
   }}
   src="https://www.youtube.com/embed/XWNkC4Z60B4?si=1ljPSUEZTDz7Y_gR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<!-- truncate -->
 
 小時候我都會跟我姊姊一起看電視，哈姆太郎、魔法咪路咪路、小魔女 doremi、真珠美人魚一個都沒有少，真珠美人魚是以拯救海洋為主線充滿戀愛、探索、對抗的故事，最大的特色就是他們是用歌聲來擊退壞人，因此有非常多好聽的歌曲，不管是好人或壞人都好聽，最重要的是這些歌曲都是**中文的！** 不用刻意學，音樂一下嘴巴就跟著唱了。
 
