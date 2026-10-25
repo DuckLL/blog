@@ -6,7 +6,7 @@ tags: ["security","infosec"]
 
 因為 [Blogblog 同樂會](https://blogblog.club/party)的關係最近看了很多部落格，我注意到**幾乎全部的 Blog 的 Email 都是明文顯示**，這其實是一個**很常被忽視的資安隱私問題**。
 
-<!-- truncate -->
+{/* truncate */}
 
 ## 為什麼重要
 

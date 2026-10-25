@@ -13,7 +13,7 @@ draft: false
 讓你遠離帳號盜竊者  
 **一樣歡迎轉貼分享**
 
-<!-- truncate -->
+{/* truncate */}
 
 # 二階段驗證 (2FA)
 

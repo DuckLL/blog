@@ -16,7 +16,7 @@ draft: false
 但設定起來也沒有這麼簡單  
 我的目標很簡單 **"一個 docker 指令完成"**
 
-<!-- truncate -->
+{/* truncate */}
 
 ## 進入正題
 

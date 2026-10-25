@@ -16,7 +16,7 @@ draft: false
 [另一篇文章則是提升帳號的安全性](/blog/AntiTheft)  
 **一樣歡迎轉貼分享**
 
-<!-- truncate -->
+{/* truncate */}
 
 # 常見的錯誤
 

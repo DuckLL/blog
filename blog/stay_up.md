@@ -14,7 +14,7 @@ tags: ["blogblog", "life"]
 
 想做的事情太多了
 
-<!-- truncate -->
+{/* truncate */}
 
 做 project 的時候  
 做完一個功能就會想要接下一個功能  

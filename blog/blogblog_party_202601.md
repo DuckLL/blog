@@ -10,7 +10,7 @@ tags: ["blogblog"]
 
 整理我閱讀「推坑」文的一些心得分享
 
-<!-- truncate -->
+{/* truncate */}
 
 
 [運籌帷幄的鍵盤操作術：減少手部移動的心流打字方案（Mac 與 Windows 適用）](https://shuaixin.cc/Awesome-Keymap/)、[隻手差啲中RSI所以將Caps Lock換做Ctrl已經20年](https://it9gamelog.medium.com/caps-to-ctrl-cfb29d16e427): 我推薦另一套 [Capslock](https://github.com/Vonng/Capslock)，但我有自己微調，可以參考我的 [karabiner config](https://github.com/DuckLL/dotfile/blob/master/karabiner.json)，在任何地方使用 hjkl 上下左右效率大提升。

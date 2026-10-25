@@ -22,7 +22,7 @@ draft: false
 舊的 Blog 也不會關閉  
 但會體醒訪客到新站來交流討論
 
-<!-- truncate -->
+{/* truncate */}
 
 ## 搬家過程
 

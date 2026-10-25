@@ -14,7 +14,7 @@ draft: false
 特此找資料好好認識 Dark Mode  
 如果你沒有時間，可以直接跳到結論
 
-<!-- truncate -->
+{/* truncate */}
 
 ## 研究
 
