@@ -13,6 +13,8 @@
 - 📷 鏡頭 - 重量先決
   - Sony 16-35mm F/4 - 廣角自拍、風景都很棒
   - Sony 50mm F/1.8 - 自動對焦大光圈
+  - Tamron 25-200 F/2.8-5.6 - 高變焦旅遊鏡
+  - Sony 16mm F/1.8 - 廣角大光圈 自拍、星空、極光
 
 ---
 
@@ -96,11 +98,11 @@
 
 ### 通訊軟體
 
+- [Telegram](https://telegram.org/) - 佛心通訊軟體，API 串 Bot 無敵
+- [Signal](https://signal.org/) - 研究員的通訊軟體
 - [Discord](https://discord.com/) - 遊戲與社群的通訊軟體
 - [Line](https://www.line.me/tw/) - 拜託不要在用了
 - [Microsoft Teams](https://www.microsoft.com/microsoft-teams/) - 工作需求，難用到生氣
-- [Signal](https://signal.org/) - 研究員的通訊軟體
-- [Telegram](https://telegram.org/) - 佛心通訊軟體，API 串 Bot 無敵
 
 ---
 
@@ -144,6 +146,8 @@
 
 ### 自架
 
+- [Proxmox](https://www.proxmox.com/) - 虛擬主機管理
+- [Home Assistant](https://www.home-assistant.io/) - 智慧家庭
 - [FreshRSS](https://freshrss.org/) - RSS 閱讀器
 - [Immich](https://immich.app/) - 開源版 Google photo
 - [Nextcloud](https://nextcloud.com/) - 私人雲端硬碟
@@ -170,3 +174,7 @@
   - Limitless - 做出意想不到的招式 但真的很吵
 - MAGICYOYO
   - Y02 AURORA - 發光球是小時候的夢幻逸品
+- Yoyofriends
+  - RIO LED - True RGB 發光球！ 三段模式
+- REWIND x SUS YOYO MECHANICS
+  - Viper Remix - 第一顆 4A 軟材質不怕摔
